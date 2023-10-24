@@ -2,7 +2,7 @@
 
 Robin Müller
 
-20.10.2023 bis 22.12.2023 (🎄 Weihnachtsferien)
+24.10.2023 bis 19.12.2023 (🎄 Weihnachtsferien)
 
 ## Leit-Satz
 
@@ -10,14 +10,10 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 
 **Ich programmiere ein Projekt in C# in einem Team, um meine C# Kenntnisse zu vertiefen und zu verbessern.** (90 Wörter)
 
-## Arbeitspakete für 20.10.2023
+## Arbeitspakete für 24.10.2023
 
-- [ ] Ein neues `C#`-Projekt erstellen, bei welchem ich...
+- [ ] Informationen suchen wie Szymon und ich ein gemeinsames Repository auf Github erstellen können
+- [ ] Informationen suchen wie Szymon und ich am gleichen Code in VS arbeiten können.
+- [ ] Wir beantworten ein paar Fragen zu IPERKA
 
-| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
-| ------:| ------------ | ------- | ----------------- | -------- |
-| 1      |              |         |                   |          |
-
-Heute habe ich... (xx Wörter)
-
-## Arbeitspakete für 27.10.2023
+## Arbeitspakete für 31.10.2023

@@ -25,12 +25,23 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 - [x] Wenn der Benutzer ein Buchstabe eingibt, der nicht vorkommt werden die Anzahl Fehlversuche gezählt.
 - [x] Ich programmiere, dass der Spieler nach 8 Versuchen verliert.
 
-✍️ Heute haben Szymon und ich begonnen mit dem Programmieren des Spiels "HangMan" begonnen. Dabei habe ich einen Array erstellt und mit 20 Wörtern befüllt. Danach habe ich einen Generator, der ein zufälliges Wort, welches der Benutzer erraten muss, aus dem Aarray auswählt, erstellt. Nachher musste ich warten, dass Szymon sein Arbeitspaket beendet, damit ich weiter programmieren kann. Weswegen ich ein Arbeitspaket von Szymon übernommen habe, beiwelchem ich eine Ordner-Struktur auf GitHub erstellen musste, bei welcher man auf jede Version des Spieles zugreifen kann. Als Szymon fertig war habe ich einen Zähler hinzugefügt, der die Anzahl Fehlversuche zählt und nach acht Versuchen dem Benutzer mitteilt, dass er verloren hat. Zum Schluss habe ich mit Szymon noch sein letztes Arbeitspaket beendet.
+✍️ Heute haben Szymon und ich begonnen mit dem Programmieren des Spiels "HangMan" begonnen. Dabei habe ich einen Array erstellt und mit 20 Wörtern befüllt. Danach habe ich einen Generator, der ein zufälliges Wort, welches der Benutzer erraten muss, aus dem Aarray auswählt, erstellt. Nachher musste ich warten, dass Szymon sein Arbeitspaket beendet, damit ich weiter programmieren kann. Weswegen ich ein Arbeitspaket von Szymon übernommen habe, beiwelchem ich eine Ordner-Struktur auf GitHub erstellen musste, bei welcher man auf jede Version des Spieles zugreifen kann. Als Szymon fertig war habe ich einen Zähler hinzugefügt, der die Anzahl Fehlversuche zählt und nach acht Versuchen dem Benutzer mitteilt, dass er verloren hat. Zum Schluss habe ich mit Szymon noch sein letztes Arbeitspaket beendet. (119 Wörter)
 
 ## Arbeitspakete für 7.11.2023
 
 - [ ] Ich programmiere, dass kontrolliert, ob er gewonnen hat, und dem Benutzer mitteilt, dass er gewonnen hat.
   
-- [ ] Ich programmiere eine Funktion, die ein leeres Board erstellt.
+- [x] Ich programmiere eine Funktion, die ein leeres Board erstellt.
   
-- [ ] Ich pragrammiere, dass der HangMan aktualisiert wird.
+- [x] Ich pragrammiere, dass der HangMan aktualisiert wird.
+  
+
+✍️ Heute morgen habe ich gedacht, dass ich das erste Arbeitspaket, das letzte Mal schon gemacht habe. Am Schluss habe ich gemerkt, dass ich es doch noch nicht gemacht habe. Ich habe eine Funktion erstellt überwelche man verschiedene HangMans, mit unterschiedlicher Vervollständigung, anzeigen lassen kann. Natürlich habe ich die Funktion auch noch in den Code eingebaut, dass der richtige HangMan im passenden Moment angezeigt wird. Danach habe ich mit Szymon ein paar Fehler aus dem Code entfernt. Zum Schluss habe ich im ePortflio von Modul 319 eine Weitere Zeile Inhalt geschrieben. (90 Wörter)
+
+## Arbeitspakete für 14.11.2023
+
+- [ ] Ich programmiere, dass die Konsole nach jedem Versuch geleert wird und es ganz oben den neuen HangMan anzeigt.
+  
+- [ ] Ich programmiere, dass wenn der Buchstabe im Wort enthalten ist, es in den Array mit den Strichen an die passende Stelle eingefügt wird.
+  
+- [ ] Ich und Szymon programmieren, dass kontrolliert wird, ob der Benutzer gewonnen hat, und dem Benutzer mitteilen wird, dass er gewonnen hat.

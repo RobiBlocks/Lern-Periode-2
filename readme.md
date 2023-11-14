@@ -40,8 +40,19 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 
 ## Arbeitspakete für 14.11.2023
 
-- [ ] Ich programmiere, dass die Konsole nach jedem Versuch geleert wird und es ganz oben den neuen HangMan anzeigt.
+- [x] Ich programmiere, dass die Konsole nach jedem Versuch geleert wird und es ganz oben den neuen HangMan anzeigt.
   
-- [ ] Ich programmiere, dass wenn der Buchstabe im Wort enthalten ist, es in den Array mit den Strichen an die passende Stelle eingefügt wird.
+- [x] Ich programmiere, dass wenn der Buchstabe im Wort enthalten ist, es in den Array mit den Strichen an die passende Stelle eingefügt wird.
   
 - [ ] Ich und Szymon programmieren, dass kontrolliert wird, ob der Benutzer gewonnen hat, und dem Benutzer mitteilen wird, dass er gewonnen hat.
+  
+
+✍️ Heute habe ich einprogrammiert, dass das Programm nach jedem Eingabeversuch die Konsole leert und falls der Buchstabe falsch ist der HangMan weiter gezeichnet wird. Nachdem Szymon einen Arry mit den Unterstrichen erstellt hat habe ich programmiert, dass wenn der Buchstabe vorhanden ist, dieser an der passenden Stelle im Array mit den Unterstrichen eingefügt wird. Allerdings wird dieser Array mit dem neuen Buchstaben erst beim nächsten Fehlversuch angezeigt. Zu guter Letzt haben Szymon und ich versucht herauszufinden, ob der Benutzer gewonnen hat oder nicht. Allerdings gibt es einen Fehler zwischen Zeile 125 und 128 Bei welchem man einen String in einen Char-Array umgewandelt werden soll. (104 Wörter)
+
+## Arbeitspakete für 21.11.2023
+
+- [ ] Szymon und ich beheben den Fehler, indem wir den Unterstriche-string in einen Char-Array umwandeln.
+  
+- [ ] Ich programmiere, dass wenn der Buchstabe vorhanden ist der Array mit den Unterstrichen angezeigt wird.
+  
+- [ ] Ich programmiere, dass wenn der Buchstabe vorhanden ist der letzte HangMan geladen wird.

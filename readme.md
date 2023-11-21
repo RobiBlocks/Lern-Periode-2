@@ -51,8 +51,19 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 
 ## Arbeitspakete für 21.11.2023
 
-- [ ] Szymon und ich beheben den Fehler, indem wir den Unterstriche-string in einen Char-Array umwandeln.
+- [x] Szymon und ich beheben den Fehler, indem wir den Unterstriche-string in einen Char-Array umwandeln.
   
-- [ ] Ich programmiere, dass wenn der Buchstabe vorhanden ist der Array mit den Unterstrichen angezeigt wird.
+- [x] Ich programmiere, dass wenn der Buchstabe vorhanden ist der Array mit den Unterstrichen angezeigt wird.
   
-- [ ] Ich programmiere, dass wenn der Buchstabe vorhanden ist der letzte HangMan geladen wird.
+- [x] Ich programmiere, dass wenn der Buchstabe vorhanden ist der letzte HangMan geladen wird.
+  
+
+✍️ Heute habe ich im Distanzunterricht den Fehler mit den Unterstrichen behoben. Dies war eigentlich sehr einfach, denn man musste den String, nach dem umwandeln des Arrays in den String, gar nicht zurück in einen Array umwandeln, weil dieser immer noch vollständig vorhanden war. Danach habe ich programmiert, dass der Array mit den Unterstrichen nicht nur bei einem Fehler sondern auch bei einem Treffer angezeigt wird. Anschliessend habe ich die If-Abfragen, welche den passenden HangMan anzeigen sollen an die richtige Stelle gemacht, damit der HangMan auch nach einem Treffer angezeigt wird und nicht nur nach einem Fehler. Da Szymon und mir am Schluss noch einiges an Zeit übrig blieb haben wir eine Ausnahmebehandlung für die Eingabe 'Enter' eingefügt. (117 Wörter)
+
+## Arbeitspakete für 28.11.2023
+
+- [ ] Ich erstelle einen Titel, beidem man eine Taste drücken kann um zu beginnen (inkl. "Tipp: Spielen Sie bitte mit CapsLock!").
+  
+- [ ] Ich befüllen die .jason Dateien mit etwa 50 Wörter.
+  
+- [ ] Wir arbeiten am Projekt von Herrn Schmid (genaues Arbeitspaket folgt am Freitag)

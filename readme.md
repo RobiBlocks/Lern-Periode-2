@@ -66,4 +66,4 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
   
 - [ ] Ich befüllen die .jason Dateien mit etwa 50 Wörter.
   
-- [ ] Wir arbeiten am Projekt von Herrn Schmid (genaues Arbeitspaket folgt am Freitag)
+- [ ] Ich schreibe 50 Buchungssätze für das Projekt von Herrn Haldi.

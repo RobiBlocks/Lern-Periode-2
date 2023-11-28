@@ -62,8 +62,19 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 
 ## Arbeitspakete für 28.11.2023
 
-- [ ] Ich erstelle einen Titel, beidem man eine Taste drücken kann um zu beginnen (inkl. "Tipp: Spielen Sie bitte mit CapsLock!").
+- [x] Ich erstelle einen Titel, beidem man eine Taste drücken kann um zu beginnen (inkl. "Tipp: Spielen Sie bitte mit CapsLock!").
   
-- [ ] Ich befüllen die .jason Dateien mit etwa 50 Wörter.
+- [x] Ich befüllen die .jason Dateien mit etwa 50 Wörter.
   
-- [ ] Ich schreibe 50 Buchungssätze für das Projekt von Herrn Haldi.
+- [x] Ich schreibe 50 Buchungssätze für das Projekt von Herrn Haldi.
+  
+
+✍️ Heute habe ich einen schönen Titel für unsere HangMan-Spiel erstellt. Dabei konnte ich mich sehr kreativ austoben, was mir sehr viel Spass gemacht hat. Danach habe ich in eine .csv Datei 100 Wörter rein geschrieben. Wir werden im HangMan einprogrammieren, dass die Wörter aus dieser .csv Datei ausgelesen werden und im HangMan erraten werden können. Zum Schluss habe ich noch 50 Buchungssätze geschrieben. Da ich noch Zeit übrig hatte habe ich noch ein paar Lösungen hinzugefügt. (76 Wörter)
+
+## Arbeitspakete für 05.12.2023
+
+- [ ] Ich arbeite am Projekt von Herrn Haldi (AP folgt spätestens nächsten Montag, weil wir am Freitag Zeit haben daran zu arbeiten)
+  
+- [ ] Ich arbeite am Projekt von Herrn Haldi (AP folgt spätestens nächsten Montag, weil wir am Freitag Zeit haben daran zu arbeiten)
+  
+- [ ] Ich arbeite am Projekt von Herrn Haldi (AP folgt spätestens nächsten Montag, weil wir am Freitag Zeit haben daran zu arbeiten)

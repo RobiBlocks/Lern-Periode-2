@@ -73,8 +73,18 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 
 ## Arbeitspakete für 05.12.2023
 
-- [ ] Ich arbeite am Projekt von Herrn Haldi (AP folgt spätestens nächsten Montag, weil wir am Freitag Zeit haben daran zu arbeiten)
+- [ ] Ich programmiere für das Projekt von Herrn Haldi, dass die Anzahl Fehler auf der Soll- bzw. Haben-Seite und die Anzahl falscher Buchungen gezählt werden
   
-- [ ] Ich arbeite am Projekt von Herrn Haldi (AP folgt spätestens nächsten Montag, weil wir am Freitag Zeit haben daran zu arbeiten)
+- [ ] Ich programmiere das Menü Einstellungen. Es soll zwei Buttons enthalten sein:
   
-- [ ] Ich arbeite am Projekt von Herrn Haldi (AP folgt spätestens nächsten Montag, weil wir am Freitag Zeit haben daran zu arbeiten)
+  - "Geschäftsfall/Buchungssatz hinzufügen": Wenn man darauf drückt werden vier Eingabefelder, in denen man den Geschäftsfall, die Soll- und Haben Konten, sowie den Betrag angeben kann, angezeigt,
+    
+  - "Konto hinzufügen": Wenn man darauf drückt zeigt es ein Eingabefeld an, in welches man das neue Konto, das man hinzufügen möchte, eigeben kann.
+    
+- [ ] Ich programmiere das Menü Statistiken. Es soll Angaben zu den folgenden Statistiken/Fragen enthalten (seit Laufbeginn des Programmes):
+  
+  - Wie viele Buchungen war seitenverkehrt?
+    
+  - Welche Konten habe ich wie oft falsch verwendet auf der Soll-Seite bzw. auf der Haben-Seite?
+    
+  - Wie viele Buchungen waren ganz falsch? Z.B. 5 von 20

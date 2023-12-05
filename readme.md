@@ -73,7 +73,7 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 
 ## Arbeitspakete für 05.12.2023
 
-- [ ] Ich programmiere für das Projekt von Herrn Haldi, dass die Anzahl Fehler auf der Soll- bzw. Haben-Seite und die Anzahl falscher Buchungen gezählt werden
+- [x] Ich programmiere für das Projekt von Herrn Haldi, dass die Anzahl Fehler auf der Soll- bzw. Haben-Seite und die Anzahl falscher Buchungen gezählt werden
   
 - [ ] Ich programmiere das Menü Einstellungen. Es soll zwei Buttons enthalten sein:
   
@@ -81,10 +81,21 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
     
   - "Konto hinzufügen": Wenn man darauf drückt zeigt es ein Eingabefeld an, in welches man das neue Konto, das man hinzufügen möchte, eigeben kann.
     
-- [ ] Ich programmiere das Menü Statistiken. Es soll Angaben zu den folgenden Statistiken/Fragen enthalten (seit Laufbeginn des Programmes):
+- [x] Ich programmiere das Menü Statistiken. Es soll Angaben zu den folgenden Statistiken/Fragen enthalten (seit Laufbeginn des Programmes):
   
   - Wie viele Buchungen war seitenverkehrt?
     
   - Welche Konten habe ich wie oft falsch verwendet auf der Soll-Seite bzw. auf der Haben-Seite?
     
   - Wie viele Buchungen waren ganz falsch? Z.B. 5 von 20
+    
+
+✍️ Heute habe ich die verschiedenen Varianten von Fehlern gezählt. Diese werden nun im Fenster Statistiken angezeigt. Wir können sogar die Fehler auf einer Datei speichern. Allerdings wird ein Fehler in einem Durchlauf maximal einmal verändert. Man muss immer zurück ins Hauptmenü damit die Fehler wieder veerändert werden können. Wenn man nach einem Neustart die Statistiken anschauen möchte werden sie erst nach dem ersten Fehler angezeigt. (65 Wörter)
+
+## Arbeitspakete für 05.12.2023
+
+- [ ] Szymon und ich erstellen die Präsentation zu unserem Projekt von Haldi.
+  
+- [ ] Szymon und ich erstellen die Dokumentation zu unserem Projekt von Haldi.
+  
+- [ ] Ich löse Türchen 1 vom Advent of Code.

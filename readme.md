@@ -92,10 +92,21 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 
 ✍️ Heute habe ich die verschiedenen Varianten von Fehlern gezählt. Diese werden nun im Fenster Statistiken angezeigt. Wir können sogar die Fehler auf einer Datei speichern. Allerdings wird ein Fehler in einem Durchlauf maximal einmal verändert. Man muss immer zurück ins Hauptmenü damit die Fehler wieder veerändert werden können. Wenn man nach einem Neustart die Statistiken anschauen möchte werden sie erst nach dem ersten Fehler angezeigt. (65 Wörter)
 
-## Arbeitspakete für 05.12.2023
+## Arbeitspakete für 12.12.2023
 
 - [ ] Szymon und ich erstellen die Präsentation zu unserem Projekt von Haldi.
   
-- [ ] Szymon und ich erstellen die Dokumentation zu unserem Projekt von Haldi.
+- [x] Szymon und ich erstellen die Dokumentation zu unserem Projekt von Haldi.
+  
+- [ ] Ich löse Türchen 1 vom Advent of Code.
+  
+
+✍️ Heute haben Szymon und ich an der Dokumentation für das Projekt von Herrn Haldi gearbeitet. Wir haben vier Kapitel: Auftrag, Umsetzung, Anleitung und Schlussfolgerung erstellt. Ich habe Auftrag, Anleitung und meinen persönlichen Teil bei Schlussfolgerung. Da wir sehr lange brauchten um diese Dokumentation zu schreiben hatte ich leider keine Zeit für die Präsentation und den Advent of Code.
+
+## Arbeitspakete für 19.12.2023
+
+- [ ] Szymon und ich erstellen die Präsentation zu unserem Projekt von Haldi.
+  
+- [ ] Szymon und ich üben die Präsentation zu unserem Projekt von Haldi.
   
 - [ ] Ich löse Türchen 1 vom Advent of Code.

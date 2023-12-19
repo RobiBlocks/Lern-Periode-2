@@ -90,7 +90,7 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
   - Wie viele Buchungen waren ganz falsch? Z.B. 5 von 20
     
 
-✍️ Heute habe ich die verschiedenen Varianten von Fehlern gezählt. Diese werden nun im Fenster Statistiken angezeigt. Wir können sogar die Fehler auf einer Datei speichern. Allerdings wird ein Fehler in einem Durchlauf maximal einmal verändert. Man muss immer zurück ins Hauptmenü damit die Fehler wieder veerändert werden können. Wenn man nach einem Neustart die Statistiken anschauen möchte werden sie erst nach dem ersten Fehler angezeigt. (65 Wörter)
+✍️ Heute habe ich die verschiedenen Varianten von Fehlern gezählt. Diese werden nun im Fenster Statistiken angezeigt. Wir können sogar die Fehler auf einer Datei speichern. Allerdings wird ein Fehler in einem Durchlauf maximal einmal verändert. Man muss immer zurück ins Hauptmenü damit die Fehler wieder verändert werden können. Wenn man nach einem Neustart die Statistiken anschauen möchte werden sie erst nach dem ersten Fehler angezeigt. (65 Wörter)
 
 ## Arbeitspakete für 12.12.2023
 
@@ -101,12 +101,30 @@ Ich kann die grundlegenden Möglichkeiten von C#. Allerdings muss ich nochmals a
 - [ ] Ich löse Türchen 1 vom Advent of Code.
   
 
-✍️ Heute haben Szymon und ich an der Dokumentation für das Projekt von Herrn Haldi gearbeitet. Wir haben vier Kapitel: Auftrag, Umsetzung, Anleitung und Schlussfolgerung erstellt. Ich habe Auftrag, Anleitung und meinen persönlichen Teil bei Schlussfolgerung. Da wir sehr lange brauchten um diese Dokumentation zu schreiben hatte ich leider keine Zeit für die Präsentation und den Advent of Code.
+✍️ Heute haben Szymon und ich an der Dokumentation für das Projekt von Herrn Haldi gearbeitet. Wir haben vier Kapitel: Auftrag, Umsetzung, Anleitung und Schlussfolgerung erstellt. Ich habe Auftrag, Anleitung und meinen persönlichen Teil bei Schlussfolgerung geschrieben. Da wir sehr lange brauchten um diese Dokumentation zu schreiben hatte ich leider keine Zeit für die Präsentation und den Advent of Code. (59 Wörter)
 
 ## Arbeitspakete für 19.12.2023
 
-- [ ] Szymon und ich erstellen die Präsentation zu unserem Projekt von Haldi.
+- [x] Szymon und ich erstellen die Präsentation zu unserem Projekt von Haldi.
   
 - [ ] Szymon und ich üben die Präsentation zu unserem Projekt von Haldi.
   
 - [ ] Ich löse Türchen 1 vom Advent of Code.
+  
+
+✍️ Heute haben Szymon und Ich an der Präsentation für das Projekt von Herrn Haldi gearbeitet. Wir haben uns überlegt wie wir die Präsentation gliedern möchten und mit danach die Folie gestaltet. Allerdings konnten wir die Präsentation noch nicht üben da wir zu lange gebraucht haben beim Erstellen der Präsentation. Da wir heute nur 1h 45min zur Verfügung bekommen haben um an den Arbeitspaketen zu arbeiten konnte ich Türchen 1 vom Adventskalender noch nicht lösen. (75 Wörter)
+
+## Reflexion
+
+In dieser Lernperiode habe ich das erste Mal mit einem Team
+ein Programmierprojekt umgesetzt. Es hat sehr viel Spass gemacht, weil man
+immer zusammen kommuniziert und Witze machen konnte. Ausserdem hatte man bei
+Fehlern ein Team, welches dich unterstützt, sodass man nicht alles allein
+machen musste. Immer nachdem ich organisatorische Aufgaben erledigt habe, habe
+ich wieder programmiert. Zu den organisatorischen Aufgaben bin ich nur
+gegangen, wenn ich warten musste auf mein Team. Sobald bei der Programmierung
+Fehler aufgetreten sind habe ich sie behoben. Ich habe nur am Modul oder
+Programmierprojekt gearbeitet, wenn ich noch sehr viel vor der Abgabe machen
+musste. (101 Wörter)
+
+**Verbesserungs-Vorschlag (VBV):** In meiner nächsten Lernperiode werde ich mir wieder Pausen nehmen. Zudem werde ich schauen, dass meine Arbeitspakete wieder genauer und weniger Zeit in anspruch nehmen werden.
